@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KanepiMart
 - 👀 I’m interested in FiveM and Lua Development.
-- 🌱 I’m currently learning Lua, Html, JS and Css.
+- 🌱 I’m currently learning Lua, HTML, JavaScript and CSS.
 - 📫 How to reach me send me a DM :D.
 
 <!---
